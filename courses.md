@@ -1,4 +1,4 @@
-# Online Learning Resources (CS, Statistics, ML)
+# Online Courses (CS, Statistics, ML)
 Repository for useful study resources
 
 * Computational Statisics in Python STA 663 (Duke University) http://people.duke.edu/~ccc14/sta-663-2017/
