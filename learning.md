@@ -1,4 +1,4 @@
-# Online Study Resources (CS, Statistics, ML)
+# Online Learning Resources (CS, Statistics, ML)
 Repository for useful study resources
 
 * Computational Statisics in Python (updated in 2017)
