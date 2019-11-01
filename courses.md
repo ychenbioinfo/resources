@@ -7,4 +7,4 @@ Repository for useful study resources
 
 - [Statistics and Computing in Genome Data Science](https://www.huber.embl.de/users/msmith/csama2019/materials/)
     
-    Cover moden statistic knowledge, machine learning, handson, etc
+  This course is made by EMBL, which covers moden statistic knowledge, machine learning, handson, etc.
