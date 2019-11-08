@@ -8,3 +8,7 @@ Repository for useful study resources
 - [Statistics and Computing in Genome Data Science](https://www.huber.embl.de/users/msmith/csama2019/materials/)
     
   This course is made by EMBL, which covers moden statistic knowledge, machine learning, handson, etc.
+
+- Python Data Science Handbook [Github] (https://jakevdp.github.io/PythonDataScienceHandbook/)
+  
+  This is a book about doing data science with Python, which immediately begs the question: what is data science? It's a surprisingly hard definition to nail down, especially given how ubiquitous the term has become. Vocal critics have variously dismissed the term as a superfluous label (after all, what science doesn't involve data?) or a simple buzzword that only exists to salt resumes and catch the eye of overzealous tech recruiters.
